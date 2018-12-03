@@ -1,12 +1,14 @@
-Subject ID,Association,Gender,Age,Ethnicity,Religion,Region,Program,Beneficiary Sphere,Years Engaged
-KEKS-T1,Mogaung,?,23,Kachin,Christian,Kachin State,KE,Indirect A,4
-KEKS-T2,Hopin,Female,26,Kachin,Christian,Kachin State,KE,Indirect A,3
-KEKS-T3,Mawhan,?,27,Kachin,Christian,Kachin State,KE,Indirect A,4
-KEKS-T4,Myitkyina,Female,31,Kachin,Christian,Kachin State,KE,Indirect A,4
-KEKS-T6,Nawng Hkying,Female,24,Kachin,Christian,"Kachin State, Waimaw Region",KE,Indirect A,4
-KESS-T1,MGZ,Female,Early 20s,Kachin,Christian,"NSS, near Chinese border",KE,Indirect A,5
-KESS-T2,Lashio Eden,Male,27,Kachin,Christian,"NSS, Lashio",KE,Indirect A,5
-KESS-T3,Kawnghka,Female,Late 20s,Kachin,Christian,"NSS, Kawnghka",KE,Indirect A,7
-KESS-T4,Lashio Eden,Female,Late 20s,Kachin,Christian,"NSS, Lashio",KE,Indirect A,5
-KESS-T5,Lashio Eden,Female,Late 20s,Kachin,Christian,"NSS, Lashio",KE,Indirect A,7
-KESS-T6,Nampaka,Male,Early 40s,Kachin,Christian,"NSS, Nampaka",KE,Indirect A,7
+Subject ID,Association,Gender,Age,Ethnicity,Religion,Region,Beneficiary Sphere,Years Engaged
+KEKS-T1,Mogaung,?,23,Kachin,Christian,Kachin State,Indirect A,4
+KEKS-T2,Hopin,Female,26,Kachin,Christian,Kachin State,Indirect A,3
+KEKS-T3,Mawhan,?,27,Kachin,Christian,Kachin State,Indirect A,4
+KEKS-T4,Myitkyina,Female,31,Kachin,Christian,Kachin State,Indirect A,4
+KEKS-T6,Nawng Hkying,Female,24,Kachin,Christian,"Kachin State, Waimaw Region",Indirect A,4
+KESS-T1,MGZ,Female,Early 20s,Kachin,Christian,"NSS, near Chinese border",Indirect A,5
+KESS-T2,Lashio Eden,Male,27,Kachin,Christian,"NSS, Lashio",Indirect A,5
+KESS-T3,Kawnghka,Female,Late 20s,Kachin,Christian,"NSS, Kawnghka",Indirect A,7
+KESS-T4,Lashio Eden,Female,Late 20s,Kachin,Christian,"NSS, Lashio",Indirect A,5
+KESS-T5,Lashio Eden,Female,Late 20s,Kachin,Christian,"NSS, Lashio",Indirect A,7
+KESS-T6,Nampaka,Male,Early 40s,Kachin,Christian,"NSS, Nampaka",Indirect A,7
+KEKS-T7,Du Kahtawng,Female,33,Kachin (Lachik),Christian(Baptist),Myitkyina,Indirect A,6
+KEKS-T8,Zin Lum (teacher trainer),Male,26,Kachin,Christian(Baptist),Htingnai,Indirect A,4
